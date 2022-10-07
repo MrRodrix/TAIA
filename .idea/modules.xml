@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../mars-gym/.idea/mars-gym.iml" filepath="$PROJECT_DIR$/../mars-gym/.idea/mars-gym.iml" />
+      <module fileurl="file://D:/mars-gym-Taia/.idea/mars-gym-Taia.iml" filepath="D:/mars-gym-Taia/.idea/mars-gym-Taia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ml-mt.iml" filepath="$PROJECT_DIR$/.idea/ml-mt.iml" />
+    </modules>
+  </component>
+</project>
